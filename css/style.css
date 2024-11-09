@@ -1,3 +1,51 @@
-body  {font-family:
-        color: 
-        background-color:}
+body  {font-family: "Roboto", sans-serif;
+        background-color: #FFFFFF;}
+
+.header-logo {font-family: "Raleway", sans-serif;}
+
+.header-nav { font-family: ;}
+
+.header-address {font-family: ;
+font-size: ;
+color: ;}
+
+
+
+.hero-section-background { background-color: ;}
+
+.hero-header1 {}
+
+.hero-button {}
+
+
+
+
+.features-header3 {}
+
+.features-descr1 {}
+
+
+
+
+.team-section-background {}
+
+.team-header2 {}
+
+.team-header3 {}
+
+.team-descr1 {}
+
+
+
+.portfolio-header2 {}
+
+.portfolio-header3 {}
+
+.portfolio-descr1 {}
+
+
+
+.footer-logo {
+        font-family: "Raleway", sans-serif;
+}
+.footer-descr1 {}
