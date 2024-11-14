@@ -19,17 +19,17 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
-.header-nav .link:hover {color: #404bbf;}
-.header-nav .link:focus {color: #404bbf;}
+.link:hover {color: #404bbf;}
+.link:focus {color: #404bbf;}
 
 
-.header-address {font-style: normal;
+.address {font-style: normal;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455}
-.header-address .link:hover {color: #404bbf}
-.header-address .link:focus {color: #404bbf;}
+.link:hover {color: #404bbf}
+ .link:focus {color: #404bbf;}
 
 .hero-section-background { background-color: ;}
 
