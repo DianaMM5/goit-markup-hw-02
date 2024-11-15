@@ -13,7 +13,7 @@ color: #4d5ae5;}
 .logo-name {color: #2e2f42;
 }
 
-.header-nav .link { font-weight: 500;
+.header-nav { font-weight: 500;
 font-size: 16px; 
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -23,7 +23,7 @@ color: #2e2f42;
 #404bbf;}
 
 
-.header-address .link {font-style: normal;
+.header-address {font-style: normal;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
