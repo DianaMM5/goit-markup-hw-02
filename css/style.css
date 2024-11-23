@@ -95,9 +95,11 @@ text-transform: capitalize;
 color: #2e2f42;
 }
 
-.team-section-list {background-color: #FFFFFF;}
+.team-section-list 
 
-.team-section-item {}
+.team-section-item {
+background-color: #FFFFFF;
+}
 
 .team-header-three {
 font-weight: 500;
