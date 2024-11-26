@@ -2,9 +2,7 @@ body  {font-family: "Roboto", sans-serif;
         background-color: #FFFFFF;
         color: #434455;
 }
-a {
-        text-decoration: none;
-}
+
 
 .header-logo {
         font-family: "Raleway", sans-serif;
@@ -32,6 +30,7 @@ a {
 
 .header-nav-link {
         color: #2e2f42;
+        text-decoration: none;
 }
 
 .header-nav-link:hover, .header-nav-link:focus {
@@ -50,7 +49,8 @@ a {
         list-style: none;
 }
 .header-address-link {
-        color: #434455
+        color: #434455;
+        text-decoration: none;
 }
 
 .header-address-link:hover, .header-address-link:focus {
