@@ -2,7 +2,9 @@ body  {font-family: "Roboto", sans-serif;
         background-color: #FFFFFF;
         color: #434455;
 }
-
+a {
+        text-decoration: none;
+}
 
 .header-logo {
         font-family: "Raleway", sans-serif;
@@ -12,6 +14,7 @@ body  {font-family: "Roboto", sans-serif;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
+        text-decoration: none;
 }
 
 .hlogo-name {
@@ -185,7 +188,9 @@ body  {font-family: "Roboto", sans-serif;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #4d5ae5;}
+        color: #4d5ae5;
+        text-decoration: none;
+}
 
 .flogo-name {
         color: #f4f4fd;
